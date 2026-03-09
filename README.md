@@ -4,7 +4,7 @@ A repository for expanding on a previous project I did for my DS2001 class (Fall
 
 **MATH 6243 - Spring 2026**
 
-** Data **
+**Data**
 Data Source: The data used in this project is from the Breast Cancer Surveilance Consortium and was accessed on 9th March 2026 from <https://www.bcsc-research.org/datasets/rf> and <https://www.bcsc-research.org/datasets/mammography_dataset>.
 
 We are using a dataset found through the BCSC Organization that organizes risk factor data for breast cancer for 1,522,340 records. This data ranges in collection date from January 2005 to December 2017 and was originally collected to describe the distribution of breast cancer risk in the general population or to explore relationships among breast cancer risk factors. This dataset will help us explore how our focus risk factors inpact breast density.
