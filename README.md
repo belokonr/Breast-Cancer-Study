@@ -40,8 +40,8 @@ In terms of data preprocessing, this data is very organized and having worked wi
 │   ├── 01_DataProcessing.ipynb                  # Preliminary data cleaning code
 │   └── 02_ModelBuilding.ipynb                  # Modeling and Results replication
 ├── docs/
-│    └── Proposal
-│    └── Final Report
+│    └── Proposal.pdf
+│    └── Final Report.pdf
 └── requirements.txt                            # Required python libraries
 ```
 
